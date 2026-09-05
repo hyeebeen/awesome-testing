@@ -39,6 +39,7 @@
 - Selenium (Web自动化)
 - Appium (移动测试)
 - JUnit/TestNG (单元测试)
+- [Agent QA](https://github.com/vostride/agent-qa)（使用自然语言执行 Web、Android 和 iOS 回归测试，提供执行记忆和 CLI、仪表板、MCP 接口；FSL-1.1-ALv2 源码可用许可）
 
 ### 性能测试
 - JMeter
